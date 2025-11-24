@@ -310,6 +310,7 @@ vercel
 ## 📧 Contacto
 
 Proyecto desarrollado por Luis Fernando Sanchez F. Taller final del curso de Desarrollo Web Frontend
+Universidad de Los Andes - Educación Continua
 
 ---
 
